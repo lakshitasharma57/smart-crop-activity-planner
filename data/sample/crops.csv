@@ -1,0 +1,4 @@
+id,farmId,fieldName,cropType,areaAcres,sowingDate,expectedHarvestDate
+1,1,North Field,Wheat,5.0,2026-11-05,2027-04-12
+2,1,East Field,Rice,4.5,2026-06-20,2026-10-25
+3,2,River Plot,Maize,3.0,2026-10-01,2027-01-25

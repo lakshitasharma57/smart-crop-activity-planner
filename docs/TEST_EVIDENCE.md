@@ -2,7 +2,7 @@
 
 ## 1. Automated tests (JUnit)
 Run in Eclipse: right-click the project -> **Run As -> JUnit Test**, or `mvn test`.
-Paste a screenshot of the green JUnit view here: `docs/junit-result.png`
+Paste a screenshot of the green JUnit view here: `Screenshot: screenshot/J-unit.png`
 
 | Test class | What it proves |
 |---|---|
